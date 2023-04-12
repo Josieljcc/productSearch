@@ -1,1 +1,3 @@
-console.log('Hello, teste');
+console.log("Hello, teste");
+
+const oi = "oi";
